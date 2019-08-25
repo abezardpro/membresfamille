@@ -1,0 +1,15 @@
+button {
+  background-color: #bada55;
+  padding: 8px;
+  border: none;
+}
+
+.enfant {
+  background-color: yellow;
+  color: black;
+}
+
+.adulte {
+  background-color: purple;
+  color: white;
+}
